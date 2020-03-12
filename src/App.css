@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+/* .list-celeb {
+  width: 50%;
+  float: left;
+}
+
+.details {
+  width: 50%;
+  clear: both;
+  float: right;
+} */
+
+.big-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
